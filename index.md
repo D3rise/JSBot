@@ -105,7 +105,5 @@
 3. js!setvc - выставляет голосовой канал для проигрываения музыки
 
 *Полезные ссылки:*
-[Поддержать разработчика](http://www.donationalerts.ru/r/der1se)
+[Поддержать разработчика](http://www.donationalerts.ru/r/der1se)\\
 [Пригласить бота на свой сервер](https://discordapp.com/oauth2/authorize?client_id=428878180238229504&scope=bot&permissions=8)
-
-###Для дополнительной информации, связывайтесь с **Derise#0775**
